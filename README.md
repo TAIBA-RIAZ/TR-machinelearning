@@ -1,13 +1,11 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🤖 Machine Learning App
 
-Description of the app ...
+This is a Machine Learning App that provides a web-based interface for interacting with a trained machine learning model. 
+Streamlit is a Python framework that makes it easy to build and deploy ML applications quickly.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://TR-machinelearning.streamlit.app/)
 
 ## GitHub Codespaces
 
